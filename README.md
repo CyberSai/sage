@@ -31,15 +31,27 @@ Some of the notable features the application had are:
 Below are few screen shots taken from the application.
 
 ![Landing Page](welcome.png)
+
 ![Login](login.png)
+
 ![Dashboard](dashboard.png)
+
 ![Create Client](new_client.png)
+
 ![Clients](clients.png)
+
 ![Confirm Password](confirm_password.png)
+
 ![Profile Page](profile.png)
+
 ![Security](security.png)
+
 ![Edit Patient](edit_patient.png)
+
 ![Delete Patient](delete_patient.png)
+
 ![Show Client](client.png)
+
 ![Patients](patients.png)
+
 ![Records](records.png)
